@@ -8,7 +8,7 @@ Explore my TypeScript journey from the basics to advanced levels, encompassing a
 
 -   **TypeScript** is an Object Oriented Programming Language that is built on top of JavaScript with **Extra Features**.
 -   **TypeScript** is a superset of JavaScript, which means that TypeScript includes all the features of JavaScript and adds additional features on top of it.
--   **TypeScript** is designed to provide optional static typing and other features that make it easier to build and maintain large-scale applications. With TypeScript, you can write code with types, interfaces, classes, and tother constructs that help catch errors at compile-time and provide better tooling support for developers. TypeScript code is then transpiled into JavaScript, so it can run on any JavaScript runtime, and it allows developers to gradually adopt and integrate static typing into their existing JavaScript codebase.
+-   **TypeScript** is designed to provide optional static typing and other features that make it easier to build and maintain large-scale applications. With TypeScript, you can write code with types, interfaces, classes, and other constructs that help to catch errors at compile-time and provide better tooling support for developers. TypeScript code is then transpiled into JavaScript, so it can run on any JavaScript runtime, and it allows developers to gradually adopt and integrate static typing into their existing JavaScript codebase.
 
 ### Why TypeScript?
 
